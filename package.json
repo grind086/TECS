@@ -1,0 +1,17 @@
+{
+  "name": "tecs",
+  "version": "0.1.0",
+  "description": "Typed Entity Component System",
+  "main": "dist/index.js",
+  "author": "Rob Grindeland",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "prettier": "^1.14.3",
+    "tslint": "^5.11.0",
+    "tslint-config-prettier": "^1.15.0",
+    "tslint-consistent-codestyle": "^1.13.3",
+    "tslint-plugin-prettier": "^2.0.0",
+    "typescript": "^3.1.0-rc.20180911"
+  }
+}
